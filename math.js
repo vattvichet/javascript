@@ -10,3 +10,7 @@ console.log(a - b)
 console.log(a / b)
 // សំណល់
 console.log(a % b)
+let year = 2003;
+console.log(year + 1)
+console.log(year--)
+console.log(a + year + b)
