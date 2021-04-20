@@ -9,3 +9,5 @@ let hype = true;
 console.log(hype)
 const dope = false;
 console.log(dope)
+let isLoggedIn = 2000;
+console.log(isLoggedIn)
