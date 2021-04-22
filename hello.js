@@ -11,3 +11,8 @@ const dope = false;
 console.log(dope)
 let isLoggedIn = 2000;
 console.log(isLoggedIn)
+//Try to use the name for more than 2 letters and always make it clear 
+let bestView = "Paris";
+console.log(bestView)
+let quote = 'It is ok to punish yourself by the reason of "success"';
+console.log(quote)
