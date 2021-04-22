@@ -16,3 +16,4 @@ let bestView = "Paris";
 console.log(bestView)
 let quote = 'It is ok to punish yourself by the reason of "success"';
 console.log(quote)
+console.log(bestView)

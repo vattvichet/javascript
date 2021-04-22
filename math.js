@@ -22,3 +22,12 @@ console.log(c += 1)
 console.log(c -= 5)
 console.log(c + 1)
 console.log(c)
+
+let lastName = "vichet";
+let firstName = "vatt";
+
+console.log(lastName.length)
+console.log(firstName)
+console.log(lastName + firstName)
+console.log(lastName[2])
+console.log(firstName.length)
