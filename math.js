@@ -31,3 +31,13 @@ console.log(firstName)
 console.log(lastName + firstName)
 console.log(lastName[2])
 console.log(firstName.length)
+
+const message = "   hi this world   ";
+console.log(message.toLocaleUpperCase().trim());
+console.log(message.toLocaleUpperCase());
+
+let password = "123456";
+console.log(password.toLocaleUpperCase());
+
+
+
