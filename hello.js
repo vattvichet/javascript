@@ -17,3 +17,15 @@ console.log(bestView)
 let quote = 'It is ok to punish yourself by the reason of "success"';
 console.log(quote)
 console.log(bestView)
+
+
+
+let lastName = "vichet";
+let firstName = "vatt";
+
+console.log(lastName.length)
+console.log(firstName)
+console.log(lastName + firstName)
+console.log(lastName[2])
+console.log(firstName.length)
+console.log(lastName.toLocaleUpperCase());
