@@ -39,6 +39,9 @@ console.log(message.toLocaleUpperCase());
 let password = "123456";
 console.log(password.toLocaleUpperCase());
 
+const input = "My mood is now stinker";
+console.log(input);
+
 
 
 
