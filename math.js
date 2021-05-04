@@ -42,6 +42,8 @@ console.log(password.toLocaleUpperCase());
 const input = "My mood is now stinker";
 console.log(input);
 
+console.log(Math.random());
+console.log(Math.PI);
 
 
 
