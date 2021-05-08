@@ -7,6 +7,8 @@ console.log(`You have bought ${amount} ${mode.toUpperCase()} ${product} Total Pr
 
 console.log(Math.PI);
 
+
+console.log(Math.random());
 console.log(Math.random());
 console.log(Math.random());
 console.log(Math.random());
